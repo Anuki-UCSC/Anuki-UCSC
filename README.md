@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-ucsc&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-ucsc" /> </p>
 
-- 🔭 I’m currently working on **Sashreeka**
+- 🔭 I’m currently working on **SIGNoMEET Application & Shopping Cart Application**
 
-- 🌱 I’m currently learning **ReactJs, React-Native**
+- 🌱 I’m currently learning **Java SpringBoot & Microservices**
 
 - 📫 How to reach me **anugaya.alwis@gmail.com**
 
