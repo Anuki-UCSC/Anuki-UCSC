@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anuki De Alwis</h1>
-<h3 align="center">Computer Science Undergraduate of University of Colombo School of Computing</h3>
+<h3 align="center">Computer Science Graduate</h3>
 <img src="https://img.freepik.com/free-vector/home-office-concept-woman-working-from-home-student-freelancer_113065-514.jpg?size=626&ext=jpg" align="center" height="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuki-ucsc&label=Profile%20views&color=0e75b6&style=flat" alt="anuki-ucsc" /> </p>
 
-- 🔭 I’m currently working on **SIGNoMEET Application & Shopping Cart Application**
+- 🔭 I’m currently working on **SIGNoMEET Application**
 
 - 🌱 I’m currently learning **Java SpringBoot & Microservices**
 
